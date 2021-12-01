@@ -45,6 +45,10 @@ hr{
     border: 1px solid var(--primary-color)
 }
 
+li > div{
+    text-align: center;
+}
+
 
 /* lists */
 
