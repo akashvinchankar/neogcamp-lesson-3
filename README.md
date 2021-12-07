@@ -1,2 +1,12 @@
-# neogcamp-lesson-3
- neogcamp lesson 3: HTML and CSS to make component library
+# This is my portfolio 
+
+### You and see my projects and relevant information here
+
+I have build this portifolio using :
+
+1. HTML
+2. CSS
+3. JavaScript
+
+ 
+ 
